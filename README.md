@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Array
+|  |
+| ------- |
+| [1580-shuffle-the-array](https://github.com/About-Rudra/Leetcode/tree/master/1580-shuffle-the-array) |
 <!---LeetCode Topics End-->
