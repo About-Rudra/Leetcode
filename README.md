@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/About-Rudra/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/About-Rudra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/About-Rudra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -52,5 +53,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/About-Rudra/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
