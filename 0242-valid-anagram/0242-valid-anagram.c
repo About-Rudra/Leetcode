@@ -1,18 +1,22 @@
 bool isAnagram(char* s, char* t) {
-    int m=strlen(t);
-    int n=strlen(s);
-    if(m!=n){
+    int map[128] = {0};
+    int i;
+
+    if (strlen(s) != strlen(t)) {
         return false;
     }
-    int count1[26]={0}, count2[26] ={0};
-    for(int i=0; s[i]!='\0';i++){
-       count1[s[i]-'a']++;
-       count2[t[i]-'a']++;
+
+    for(i=0;s[i]!='\0';i++){
+        map[s[i]-97]+=1;
     }
-    for(int i=0;i<26;i++){
-        if(count1[i]!=count2[i]){
+
+    for(i=0;t[i]!='\0';i++){
+        map[t[i]-97]-=1;
+
+        if( map[t[i]-97]<0){
             return false;
         }
+       
     }
     return true;
 }
