@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [1580-shuffle-the-array](https://github.com/About-Rudra/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1651-shuffle-string](https://github.com/About-Rudra/Leetcode/tree/master/1651-shuffle-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/About-Rudra/Leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/About-Rudra/Leetcode/tree/master/0812-rotate-string) |
+| [1651-shuffle-string](https://github.com/About-Rudra/Leetcode/tree/master/1651-shuffle-string) |
 ## Sorting
 |  |
 | ------- |
