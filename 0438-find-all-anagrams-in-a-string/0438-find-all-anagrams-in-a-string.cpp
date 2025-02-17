@@ -2,27 +2,29 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
         vector<int> result;
-        if (s.length() < p.length()) return result;
-
-        vector<int> hashP(26, 0), hashS(26, 0);
-
-        // Fill hash for the first window of size p.length()
-        for (int i = 0; i < p.length(); i++) {
-            hashP[p[i] - 'a']++;
-            hashS[s[i] - 'a']++;
+        int n = s.length(), m = p.length();
+        
+        if (n < m) return result; // If s is smaller than p, no anagram is possible
+        
+        vector<int> pCount(26, 0), sCount(26, 0);
+        
+        // Count frequency of characters in p and first window of s
+        for (int i = 0; i < m; i++) {
+            pCount[p[i] - 'a']++;  
+            sCount[s[i] - 'a']++;
         }
-
-        // Sliding window
-        for (int i = 0; i <= s.length() - p.length(); i++) {
-            if (hashP == hashS) result.push_back(i);
-
-            // Slide the window: remove left char and add right char
-            if (i + p.length() < s.length()) {
-                hashS[s[i] - 'a']--;  // Remove leftmost character
-                hashS[s[i + p.length()] - 'a']++;  // Add new character
-            }
+        
+        // Check if first window is an anagram
+        if (pCount == sCount) result.push_back(0);
+        
+        // Start sliding the window
+        for (int i = m; i < n; i++) {
+            sCount[s[i] - 'a']++;    // Add new character from right
+            sCount[s[i - m] - 'a']--; // Remove old character from left
+            
+            if (pCount == sCount) result.push_back(i - m + 1);
         }
-
+        
         return result;
     }
 };
