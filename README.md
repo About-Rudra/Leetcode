@@ -44,6 +44,7 @@
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/About-Rudra/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/About-Rudra/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/About-Rudra/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/About-Rudra/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/About-Rudra/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -81,6 +82,7 @@
 | [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/About-Rudra/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/About-Rudra/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/About-Rudra/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/About-Rudra/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/About-Rudra/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
