@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/About-Rudra/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 | [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/About-Rudra/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/About-Rudra/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/About-Rudra/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -198,4 +200,9 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
