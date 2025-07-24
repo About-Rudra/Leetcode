@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/About-Rudra/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/About-Rudra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/About-Rudra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/About-Rudra/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/About-Rudra/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/About-Rudra/Leetcode/tree/master/0027-remove-element) |
