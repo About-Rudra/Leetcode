@@ -210,4 +210,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/About-Rudra/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
