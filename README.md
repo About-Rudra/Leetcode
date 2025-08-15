@@ -227,6 +227,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/About-Rudra/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/About-Rudra/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/About-Rudra/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/About-Rudra/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/About-Rudra/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/About-Rudra/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
