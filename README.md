@@ -16,6 +16,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
