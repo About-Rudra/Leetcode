@@ -95,6 +95,7 @@
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/About-Rudra/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0605-can-place-flowers](https://github.com/About-Rudra/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/About-Rudra/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/About-Rudra/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/About-Rudra/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/About-Rudra/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
