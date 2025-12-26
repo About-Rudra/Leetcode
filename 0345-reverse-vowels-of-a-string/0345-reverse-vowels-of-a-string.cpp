@@ -1,38 +1,24 @@
 class Solution {
 public:
-
-    bool isVowel(char c) {
-    return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
-           c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
-            }   
-
-
-    string reverseVowels(string s) {
-        string copy = s;
-        int n = s.size()-1;
-       
-
-        int front = 0;
-
-        while(front<n){
-            while(front < n && !isVowel(s[n])){
-                n--;
+    string reverseVowels(string s) 
+    {
+        for(int i=0, j=s.size()-1; i<j;) 
+        {
+            if (s[i]!='a' && s[i]!='e' && s[i]!='i' && s[i]!='o' && s[i]!='u' &&
+                s[i]!='A' && s[i]!='E' && s[i]!='I' && s[i]!='O' && s[i]!='U') 
+                i++;
+            else if (s[j]!='a' && s[j]!='e' && s[j]!='i' && s[j]!='o' && s[j]!='u' &&
+                     s[j]!='A' && s[j]!='E' && s[j]!='I' && s[j]!='O' && s[j]!='U') 
+                j--;
+            else 
+            {
+                int temp = s[i];
+                s[i] = s[j];
+                s[j] = temp;
+                i++;
+                j--;
             }
-             while( front < n && !isVowel(copy[front]) ){
-                front++;
-            }
-
-            if(isVowel(s[n]) &&  isVowel(copy[front])){
-               char temp = copy[front];
-                copy[front] = s[n];
-                copy[n] = temp;
-                front++;
-                n--;
-            }
-
         }
-
-    return copy;
-        
+        return s;
     }
 };
