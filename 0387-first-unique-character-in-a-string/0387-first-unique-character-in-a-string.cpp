@@ -22,7 +22,7 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         unordered_map<char, int> mp;
-        int count = 0;
+        
         for(char ch : s){
             mp[ch]++;
         }
