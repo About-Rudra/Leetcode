@@ -20,12 +20,11 @@ public:
 
         for(int it : nums){
             mp[it]++;
+            if(mp[it]>1) return true;
         }
 
-        for(auto it : mp){
-            if(it.second>1) return true;
-        }
-         return false;
+        
+        return false;
     }
 
    
