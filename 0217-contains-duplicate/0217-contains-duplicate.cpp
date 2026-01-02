@@ -1,14 +1,32 @@
+// class Solution {
+// public:
+//     bool containsDuplicate(vector<int>& nums) {
+//         unordered_map<int, int> freq;
+
+//         for (int num : nums) {
+//             freq[num]++;
+//             if (freq[num] > 1) {
+//                 return true;
+//             }
+//         }
+//         return false;
+//     }
+// };
+
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int, int> freq;
+    bool containsDuplicate(vector<int>& nums){
+        unordered_map<int,int> mp;
 
-        for (int num : nums) {
-            freq[num]++;
-            if (freq[num] > 1) {
-                return true;
-            }
+        for(int it : nums){
+            mp[it]++;
         }
-        return false;
+
+        for(auto it : mp){
+            if(it.second>1) return true;
+        }
+         return false;
     }
+
+   
 };
