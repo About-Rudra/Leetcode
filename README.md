@@ -33,6 +33,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/About-Rudra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/About-Rudra/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/About-Rudra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
@@ -117,6 +118,7 @@
 | [0071-simplify-path](https://github.com/About-Rudra/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/About-Rudra/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/About-Rudra/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
