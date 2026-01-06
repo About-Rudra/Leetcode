@@ -1,30 +1,19 @@
-
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int> map;
+        int l = 0, r = 0, maxLen = 0;
         int n = s.length();
-        if (n == 0) return 0;
 
-        int maxLength = 0;  // To store the maximum length
-        int start = 0;      // First pointer
-        int count = 0;      // Counter to track the current window size
-
-        for (int end = 0; end < n; end++) {
-            // Check if the character in the current window repeats
-            for (int k = start; k < end; k++) {
-                if (s[k] == s[end]) {
-                    start = k + 1;  // Move the start pointer after the repeated character
-                    break;
-                }
+        while (r < n) {
+            if (map.find(s[r]) != map.end()) {
+                l = max(l, map[s[r]] + 1);
             }
-
-            // Update the current window size
-            count = end - start + 1;
-
-            // Update the maximum length
-            maxLength = max(maxLength, count);
+            int len = r - l + 1;
+            maxLen = max(maxLen, len);
+            map[s[r]] = r;
+            r++;
         }
-
-        return maxLength;
+        return maxLen;
     }
 };
