@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/About-Rudra/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/About-Rudra/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/About-Rudra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
@@ -94,6 +95,7 @@
 | [0011-container-with-most-water](https://github.com/About-Rudra/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/About-Rudra/Leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/About-Rudra/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/About-Rudra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/About-Rudra/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/About-Rudra/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -138,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/About-Rudra/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
