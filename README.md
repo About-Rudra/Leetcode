@@ -44,6 +44,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/About-Rudra/Leetcode/tree/master/0782-jewels-and-stones) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/About-Rudra/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1580-shuffle-the-array](https://github.com/About-Rudra/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/About-Rudra/Leetcode/tree/master/1651-shuffle-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
