@@ -155,6 +155,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/About-Rudra/Leetcode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
@@ -190,6 +191,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,4 +269,8 @@
 | [1811-fix-names-in-a-table](https://github.com/About-Rudra/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/About-Rudra/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/About-Rudra/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
