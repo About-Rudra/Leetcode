@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/About-Rudra/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/About-Rudra/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/About-Rudra/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -20,6 +21,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/About-Rudra/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/About-Rudra/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -86,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/About-Rudra/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/About-Rudra/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
