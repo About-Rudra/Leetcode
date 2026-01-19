@@ -303,6 +303,7 @@
 | [1811-fix-names-in-a-table](https://github.com/About-Rudra/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/About-Rudra/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/About-Rudra/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/About-Rudra/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Hash Function
 |  |
 | ------- |
