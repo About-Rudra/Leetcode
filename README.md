@@ -86,6 +86,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/About-Rudra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -293,6 +294,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/About-Rudra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
@@ -323,4 +325,8 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/About-Rudra/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/About-Rudra/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/About-Rudra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
