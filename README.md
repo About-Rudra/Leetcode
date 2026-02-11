@@ -51,6 +51,7 @@
 | [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/About-Rudra/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/About-Rudra/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/About-Rudra/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/About-Rudra/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/About-Rudra/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1580-shuffle-the-array](https://github.com/About-Rudra/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -167,6 +169,7 @@
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
 |  |
 | ------- |
@@ -343,4 +346,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/About-Rudra/Leetcode/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
