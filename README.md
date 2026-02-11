@@ -48,6 +48,7 @@
 | [0383-ransom-note](https://github.com/About-Rudra/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/About-Rudra/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/About-Rudra/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -89,6 +90,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/About-Rudra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -116,6 +118,7 @@
 | [0238-product-of-array-except-self](https://github.com/About-Rudra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/About-Rudra/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/About-Rudra/Leetcode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/About-Rudra/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/About-Rudra/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -333,4 +336,8 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/About-Rudra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/About-Rudra/Leetcode/tree/master/0622-design-circular-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
