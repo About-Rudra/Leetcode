@@ -50,6 +50,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/About-Rudra/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/About-Rudra/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -169,6 +170,7 @@
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/About-Rudra/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
@@ -222,6 +224,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/About-Rudra/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/About-Rudra/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/About-Rudra/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +271,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/About-Rudra/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/About-Rudra/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -279,6 +284,7 @@
 | [0226-invert-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/About-Rudra/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
