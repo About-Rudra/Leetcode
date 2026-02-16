@@ -102,6 +102,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/About-Rudra/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/About-Rudra/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -300,6 +301,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/About-Rudra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/About-Rudra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/About-Rudra/Leetcode/tree/master/0392-is-subsequence) |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
