@@ -90,6 +90,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/About-Rudra/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/About-Rudra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/About-Rudra/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/About-Rudra/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -115,6 +117,7 @@
 | [0075-sort-colors](https://github.com/About-Rudra/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/About-Rudra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
