@@ -134,6 +134,7 @@
 | [0739-daily-temperatures](https://github.com/About-Rudra/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/About-Rudra/Leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/About-Rudra/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/About-Rudra/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/About-Rudra/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/About-Rudra/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
