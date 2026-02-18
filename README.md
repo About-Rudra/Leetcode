@@ -97,6 +97,7 @@
 | [0496-next-greater-element-i](https://github.com/About-Rudra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/About-Rudra/Leetcode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/About-Rudra/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/About-Rudra/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/About-Rudra/Leetcode/tree/master/1651-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/About-Rudra/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/About-Rudra/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -372,4 +374,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/About-Rudra/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
