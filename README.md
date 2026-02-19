@@ -60,6 +60,7 @@
 | [0011-container-with-most-water](https://github.com/About-Rudra/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/About-Rudra/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/About-Rudra/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/About-Rudra/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/About-Rudra/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/About-Rudra/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/About-Rudra/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/About-Rudra/Leetcode/tree/master/0125-valid-palindrome) |
@@ -184,6 +186,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/About-Rudra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/About-Rudra/Leetcode/tree/master/0812-rotate-string) |
 ## Sliding Window
