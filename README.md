@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/About-Rudra/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/About-Rudra/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/About-Rudra/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/About-Rudra/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/About-Rudra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/About-Rudra/Leetcode/tree/master/0049-group-anagrams) |
