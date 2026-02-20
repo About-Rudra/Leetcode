@@ -70,6 +70,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/About-Rudra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/About-Rudra/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/About-Rudra/Leetcode/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/About-Rudra/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/About-Rudra/Leetcode/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/About-Rudra/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -125,6 +127,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/About-Rudra/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/About-Rudra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/About-Rudra/Leetcode/tree/master/0238-product-of-array-except-self) |
