@@ -108,6 +108,7 @@
 | [0002-add-two-numbers](https://github.com/About-Rudra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/About-Rudra/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/About-Rudra/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/About-Rudra/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/About-Rudra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/About-Rudra/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/About-Rudra/Leetcode/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/About-Rudra/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
