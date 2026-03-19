@@ -135,6 +135,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/About-Rudra/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/About-Rudra/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/About-Rudra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/About-Rudra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/About-Rudra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/About-Rudra/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/About-Rudra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/About-Rudra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/About-Rudra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/About-Rudra/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/About-Rudra/Leetcode/tree/master/0567-permutation-in-string) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/About-Rudra/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/About-Rudra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/About-Rudra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -324,6 +327,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/About-Rudra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/About-Rudra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
