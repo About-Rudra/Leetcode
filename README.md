@@ -157,6 +157,7 @@
 | [0622-design-circular-queue](https://github.com/About-Rudra/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/About-Rudra/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/About-Rudra/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/About-Rudra/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/About-Rudra/Leetcode/tree/master/1046-last-stone-weight) |
@@ -249,6 +250,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/About-Rudra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/About-Rudra/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/About-Rudra/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
