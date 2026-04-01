@@ -95,6 +95,7 @@
 | [1768-merge-strings-alternately](https://github.com/About-Rudra/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/About-Rudra/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/About-Rudra/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [1580-shuffle-the-array](https://github.com/About-Rudra/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/About-Rudra/Leetcode/tree/master/1651-shuffle-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/About-Rudra/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/About-Rudra/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/About-Rudra/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/About-Rudra/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/About-Rudra/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/About-Rudra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/About-Rudra/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/About-Rudra/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/About-Rudra/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
