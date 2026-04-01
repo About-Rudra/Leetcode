@@ -4,7 +4,7 @@ class Solution {
         int hours = 0;
 
         for(int pile : piles){
-            hours += ceil((double)pile / speed);
+            hours += (pile + speed - 1) / speed;
         }
 
         return hours <= h;
