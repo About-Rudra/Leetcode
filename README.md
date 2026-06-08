@@ -388,6 +388,7 @@
 | [1148-article-views-i](https://github.com/About-Rudra/Leetcode/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/About-Rudra/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/About-Rudra/Leetcode/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/About-Rudra/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/About-Rudra/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/About-Rudra/Leetcode/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/About-Rudra/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
